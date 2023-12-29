@@ -735,8 +735,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _canDebugLogs: 0
   _debugType: 0
-  _numberOfElement: 4000
+  _numberOfElement: 226449
   _total: 0
+  _garbageTick: 0
 --- !u!4 &1589750307
 Transform:
   m_ObjectHideFlags: 0
